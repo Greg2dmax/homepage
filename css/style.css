@@ -164,7 +164,7 @@ p {
     content: " ";
     display: block;
     height: 30px;
-    background: url(../images/pattern.png) left top repeat-x;
+    background: url(../img/tile.png) left top repeat-x;
     margin-bottom: 2em;
 }
 
@@ -207,7 +207,7 @@ p {
     content: " ";
     display: block;
     height: 5px;
-    background: url(../images/pattern.png) left top repeat-x;
+    background: url(../img/title.png) left top repeat-x;
 }
 
 .page-footer {
